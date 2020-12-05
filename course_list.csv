@@ -1,0 +1,26 @@
+department_name,course_ID,credit_hours,course_description
+Music,MUSC101,3,Introduction to Music- Music Appreciation.
+Music,MUSC501,3,Music for Guitar- Guitar the Instrument.
+Humanities,HUMN102,3,Introduction to Humanities in an Ever-Changing World.
+Art,ART101,3,Introduction to Art and Artists.
+History,HIST102,3,Introduction to History of the United States.
+Music,MUSC401,3,Music for Piano- Piano the Instrument.
+Art,ART202,3,Art History in the Western World.
+Music,MUSC301,3,Music for Vocals- Voice the Instrument.
+History,HIST101,3,Introduction to World History
+Physics,PHYS202,4,Introduction to Physics- Beyond Classical Mechanics.
+Economics,ECON101,3,Introduction to Economics.
+Art,ART302,3,Art History in the United States.
+English,ENGL101,3,Introduction to English- Grammar and Structure.
+English,ENGL201,3,English Literature and Writings.
+English,ENGL102,3,Introduction to English Literature.
+Physics,PHYS102,4,Introduction to Physics- Classical Mechanics.
+Data Science,DASC102,4,Data Science Platforms Methods and Applications.
+Music,MUSC201,3,Music Theory- Music Notation Mechanics and Applications.
+Political Science,POLS101,3,Introduction to Political Science in the United States.
+Data Science,DASC101,4,Data Science Concepts and Methods
+Math,MATH301,3,Calculus- Differential Calculus.
+Math,MATH101,3,Introduction to Mathematics- including Algebra.
+Math,MATH302,3,Calculus- Integral Calculus.
+Math,MATH102,3,Introduction to Mathematics- including Pre-Calculus.
+Art,ART102,3,Art Concepts and Artists (concentration).
