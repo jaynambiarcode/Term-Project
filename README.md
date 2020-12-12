@@ -57,6 +57,12 @@ Output variable (desired target):
 The data sheet is obtained from various websites of financial insitutions. 
 
 Installation.
+1. pip install numpy
+2. pip install pd
+3. pip install matplotlib
+4. pip install seaborn
+
+
 
 The following data analysis is done on a Juptyer notebook
 While the coding was performed on Google Colab a similar platform like Juptyer
